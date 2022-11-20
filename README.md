@@ -17,13 +17,13 @@
 ---
 
 ### Screenshots (Optional)
-<img src="image1" width="70%"></img>
+<img src="images/image1.png" width="70%"></img>
 > Image Description 1
 
-<img src="image2" width="70%"></img>
+<img src="images/image2.png" width="70%"></img>
 > Image Description 2
 
-<img src="image3" width="70%"></img>
+<img src="images/image3.png" width="70%"></img>
 > Image Description 3
 
 ---

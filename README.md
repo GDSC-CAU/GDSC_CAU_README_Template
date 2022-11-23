@@ -14,9 +14,11 @@
 ---
 
 ### Tech Stacks
-- Stack 1
-- Stack 2
-- Stack 3
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+[이 Repository](https://github.com/Ileriayo/markdown-badges)
+에서 원하는 Tech Stack 뱃지를 찾아 추가합니다.
 
 ---
 

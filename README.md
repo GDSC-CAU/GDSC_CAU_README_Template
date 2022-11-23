@@ -5,9 +5,13 @@
 ---
 
 ### Team Information
-- Member 1
-- Member 2
-- Member 3
+
+| 이름 | 소속 | 역할 | Github |
+|-----|-----|-----|--------|
+| 팀원1 | 중앙대학교 소프트웨어학부 | Project Leader <br> Flutter 애플리케이션 개발 | [yymin1022](github.com/yymin1022) |
+| 팀원2 | 중앙대학교 소프트웨어학부 | Back-End 서버 개발 | [smilebank7](github.com/smilebank7) |
+
+---
 
 ### Tech Stacks
 - Stack 1

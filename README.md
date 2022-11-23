@@ -6,10 +6,10 @@
 
 ### Team Information
 
-| 이름 | 소속 | 역할 | Github |
-|-----|-----|-----|--------|
-| 팀원1 | 중앙대학교 소프트웨어학부 | Project Leader <br> Flutter 애플리케이션 개발 | [yymin1022](github.com/yymin1022) |
-| 팀원2 | 중앙대학교 소프트웨어학부 | Back-End 서버 개발 | [smilebank7](github.com/smilebank7) |
+| 이름  | 소속            | 역할                                    | Github                              |
+|-----|---------------|---------------------------------------|-------------------------------------|
+| 팀원1 | 중앙대학교 소프트웨어학부 | Project Leader <br> Flutter 애플리케이션 개발 | [yymin1022](github.com/yymin1022)   |
+| 팀원2 | 중앙대학교 소프트웨어학부 | Back-End 서버 개발                        | [smilebank7](github.com/smilebank7) |
 
 ---
 
@@ -17,10 +17,15 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-[이 Repository](https://github.com/Ileriayo/markdown-badges)
-에서 원하는 Tech Stack 뱃지를 찾아 추가합니다.
+__[이 Repository](https://github.com/Ileriayo/markdown-badges)
+에서 원하는 Tech Stack 뱃지를 찾아 추가합니다.__
 
 ---
+
+### Project Architecture
+<img src="images/project-architecture.png" width="70%"></img>
+
+__타 프로젝트에서 활용했던 Architecture 이미지입니다. 이와 같은 형식으로 간단히 제작해 첨부해주세요!__
 
 ### Screenshots (Optional)
 <img src="images/image1.png" width="70%"></img>
